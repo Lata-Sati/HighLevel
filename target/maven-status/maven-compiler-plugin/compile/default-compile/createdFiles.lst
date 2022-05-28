@@ -1,0 +1,4 @@
+PageObjects\Login.class
+Academy\App.class
+Academy\base.class
+PageObjects\LandingPage.class
